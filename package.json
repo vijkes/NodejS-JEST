@@ -4,7 +4,7 @@
   "description": "",
   "main": "run.js",
   "scripts": {
-    "test": "jest --coverage"
+    "test": "jest --coverage"   #run test case with code coverage
   },
   "keywords": [],
   "author": "",
